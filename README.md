@@ -7,3 +7,5 @@ The architecture model is refer to Adversarial Learning for Neural Dialogue Gene
 I changed the input to the data of the Simpson dataset, and only select the content of the conversation between Bart and Homer, which Homer is Query and Bart is Answer
 
 ## Demo
+
+![image](https://github.com/thomashuang2017/simpson-dialogue-gan-master/blob/master/pic/bart_homer_con.gif)
