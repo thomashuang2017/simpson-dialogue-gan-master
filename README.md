@@ -2,6 +2,9 @@
 
 ![image](https://github.com/thomashuang2017/simpson-dialogue-gan-master/blob/master/pic/Bart_homer.jpg)
 
+A dialogue system of Homer and Bart, which is using deep learning model to train on bunch of their dialogue.
+You can become Homer and simulate talk with your son bart!!
+
 # Methods
 1. Using Seq2Seq with attention and discriminator with policy gradient to build a Simpson chatbot.   
 2. The architecture model is refer to Adversarial Learning for Neural Dialogue Generation(https://arxiv.org/pdf/1701.06547.pdf).  
